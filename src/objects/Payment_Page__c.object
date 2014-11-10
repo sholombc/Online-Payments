@@ -158,6 +158,18 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Currency_Code__c</fullName>
+        <defaultValue>CAD</defaultValue>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <inlineHelpText>Currency code for payment page</inlineHelpText>
+        <label>Currency Code</label>
+        <length>3</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Payment Page</label>
     <listViews>
         <fullName>All</fullName>
