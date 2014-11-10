@@ -160,7 +160,6 @@
     </fields>
     <fields>
         <fullName>Currency_Code__c</fullName>
-        <defaultValue>CAD</defaultValue>
         <deprecated>false</deprecated>
         <externalId>false</externalId>
         <inlineHelpText>Currency code for payment page</inlineHelpText>
