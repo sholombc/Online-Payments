@@ -342,6 +342,7 @@
         <label>Won</label>
     </listViews>
     <webLinks>
+        <encodingKey>UTF-8</encodingKey>
         <fullName>DeliveryStatus</fullName>
         <availability>online</availability>
         <displayType>link</displayType>
